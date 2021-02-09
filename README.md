@@ -8,7 +8,7 @@ You need to have a bucket named `test-bucket` and object named `test-source`, th
 
 ## Run
 
-`mvnw java:exec`
+`mvnw exec:java`
 
 ## Result
 
